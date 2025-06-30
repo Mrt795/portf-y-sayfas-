@@ -1,2 +1,2 @@
-# portf-y-sayfas-
+# portfoy-sayfasi
 kişisel portföy sitesi
